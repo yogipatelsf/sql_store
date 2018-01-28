@@ -1,0 +1,29 @@
+{
+  "name": "sql_store",
+  "version": "1.0.0",
+  "description": "crypto store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogipatelsf/sql_store.git"
+  },
+  "keywords": [
+    "crypto",
+    "currency",
+    "online",
+    "store"
+  ],
+  "author": "Yogi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogipatelsf/sql_store/issues"
+  },
+  "homepage": "https://github.com/yogipatelsf/sql_store#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "mysql": "^2.15.0"
+  }
+}
